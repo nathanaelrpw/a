@@ -1,5 +1,5 @@
 ---
-title:Deriving the arc length formula
+title: Deriving the arc length formula
 sidebar:
   nav: layouts
 ---
