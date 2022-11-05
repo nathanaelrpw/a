@@ -1,6 +1,6 @@
 ---
 layout article
-title: Definite Integral
+title: Asymptotes
 ---
 
 <h2> Vertical Asymptote </h2>
