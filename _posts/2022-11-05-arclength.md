@@ -17,4 +17,4 @@ Let there be $n$ partitions from $a$ to $b$. We will call the $x$-value of $P_0$
 assumes the $x$-value $x_n$. The size of each partition is $\Delta x=\frac{b-a}{n}$, so the distance between two consecutive
 $x$-values, say $x_j$ and $x_{j+1}$, can be interpreted as $x_{j+1}=x_j+\Delta x $.<br>
 The length of one line, say in the figure $P_1$ to $P_0$ can be derived from the Pythagorean theorem. We have<br>
-$$\displaystyle{\sum^n_{i=1}}\sqrt{(\Delta x)^2+[f(x_i)-f(x_{i-1})]^2}$$.
+$$\sum^n_{i=1} \sqrt{(\Delta x)^2+[f(x_i)-f(x_{i-1})]^2}$$.
