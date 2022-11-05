@@ -14,3 +14,9 @@ Ok, now the real advice.
 <h2> 1. Don't take molecular formulas for granted. </h2>
 Molecular formulas are one of the many useful informations you get while deducing organic schemes. Weird and unexpected reactions occur 99% of the time, and this is
 why you should pay attention to the provided molecular formulas: <b> they're a huge hint whether something 'weird' had happened during the reaction or not</b>.
+(carboxylation example?)
+<h2> 2. Count carbons </h2>
+When working with pericyclic reactions, especially rearrangements, it can get confusing very quickly. Therefore, it is my advice that you keep good track of your carbons, either by numbering them or keeping a mental snapshot of where they go.
+<h2> 3. Look out for stereochemical inversions </h2>
+Ref to clayden
+<h2> 4. </h2>
