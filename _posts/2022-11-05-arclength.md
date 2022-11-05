@@ -8,7 +8,7 @@ The arc length formula is an interesting formula because it incorporates both th
 There are many derivations for this formula, but I take a special liking to this one because I came up with it on a particularly breezy evening. <br>
 
 Let there be a differentiable function $f(x)$ in $[a,b]$.<br>
-<image src="images/arclength1.jpg" class="center"><br>
+![image](https://user-images.githubusercontent.com/117506013/200128092-b6814ed6-a099-497d-8433-a4c0cf2638a0.png)<br>
 We can divide this curve into several partitions. In the figure above, we divide it into 9 equal partitions.
 The finer our partitions are, the better the approximation. In our case, we will make a generalisation.
 Let there be $n$ partitions from $a$ to $b$. We will call the $x$-value of $P_0$, $x_1$. The $P_{n-1}$-th partition
