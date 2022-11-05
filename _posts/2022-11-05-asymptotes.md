@@ -1,5 +1,7 @@
 ---
 title: Asymptotes
+sidebar:
+  nav: layouts
 ---
 
 <h2> Vertical Asymptote </h2>
