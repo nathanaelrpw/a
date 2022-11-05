@@ -1,12 +1,14 @@
 ---
 title:"Deriving the arc length formula"
+sidebar:
+  nav: layouts
 ---
 
 The arc length formula is an interesting formula because it incorporates both the integral and the derivative. This is how I like to think the derivation goes.
 There are many derivations for this formula, but I take a special liking to this one because I came up with it on a particularly breezy evening. <br>
 
 Let there be a differentiable function $f(x)$ in $[a,b]$.<br>
-![image](https://user-images.githubusercontent.com/117506013/200125354-c49512f4-cb35-4e2b-9abe-a0ad7bc24e83.png)<br>
+<center>![image](https://user-images.githubusercontent.com/117506013/200125354-c49512f4-cb35-4e2b-9abe-a0ad7bc24e83.png)<center><br>
 We can divide this curve into several partitions. In the figure above, we divide it into 9 equal partitions.
 The finer our partitions are, the better the approximation. In our case, we will make a generalisation.
 Let there be $n$ partitions from $a$ to $b$. We will call the $x$-value of $P_0$, $x_1$. The $P_{n-1}$-th partition
