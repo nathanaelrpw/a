@@ -9,7 +9,7 @@ There are many derivations for this formula, but I take a special liking to this
 
 Let there be a differentiable function $f(x)$ in $[a,b]$.<br>
 <center>
-  <image src="nathanaelrpw/a/docs/assets/images/arclength1.jpg">
+  <image src="images/arclength1.jpg">
 </center><br>
 We can divide this curve into several partitions. In the figure above, we divide it into 9 equal partitions.
 The finer our partitions are, the better the approximation. In our case, we will make a generalisation.
